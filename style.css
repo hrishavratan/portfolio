@@ -1,0 +1,29 @@
+
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+    color:chartreuse;
+    height:25px;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    color: darkcyan;
+}
+label{
+    color: blue;
+}
+footer{
+    color:cyan;
+}
+footer input{
+    background-color: blueviolet;
+    color: darkkhaki;
+    border-radius: 40%;
+}
